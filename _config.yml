@@ -1,4 +1,5 @@
 name: Twenty500 Blog
 markdown: redcarpet
 pygments: true
-permalink: /:title.html
+permalink: pretty
+paginate: 2
