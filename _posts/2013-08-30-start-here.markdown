@@ -10,7 +10,7 @@ I'm a keyboard kind of guy. I look to use shortcuts whenever I can, and I will a
 ### Good keyboard UX
 I don't want this to be an entirely negative post, so I'll kick it off with some praise for what I think is an excellent user experience for keyboard enthusiasts.
 
-Gmail really leads the way here. I really love being able to rip through my email without having to leave the keyboard. Not sure on a shortcut? No worries, just hit '?' and a list of commands shows up. Great! Don't want to use the keyboard? No worries! I'll bet that many userds don't even know the shortcuts exist, and they probably don't care either. But for those of us who want to go down that path, we're well taken care of.
+Gmail really leads the way here. I really love being able to rip through my email without having to leave the keyboard. Not sure on a shortcut? No worries, just hit '?' and a list of commands shows up. Great! Don't want to use the keyboard? No worries! I'll bet that many users don't even know the shortcuts exist, and they probably don't care either. But for those of us who want to go down that path, we're well taken care of.
 
 ### Lacking keyboard UX
 Now the real reason for this post: Autofocus; or a lack thereof.
