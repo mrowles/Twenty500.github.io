@@ -7,7 +7,6 @@ categories: search ux
 ---
 I'm a keyboard kind of guy. I look to use shortcuts whenever I can, and I will admit I get annoyed when I have to do something using the mouse.
 
-I don't want this to be an entirely negative post, so I'll kick it off with some praise for what I think is an excellent user experience for keyboard enthusiasts.
 ### Good keyboard UX
 I don't want this to be an entirely negative post, so I'll kick it off with some praise for what I think is an excellent user experience for keyboard enthusiasts.
 
