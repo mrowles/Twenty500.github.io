@@ -20,8 +20,9 @@ Why do some sites make it so hard to do things using just the keyboard? And wors
 But then lots of people use search functionality, and I sometimes feel that not enough goes into making it as easy to use.
 
 Lets use Amazon as the example again. If I go to Amazon I generally know what product I'm there for, and find it easier to search for rather than traverse the menu. With that said, I find myself having to click the search box before I can actually kick my search off. Why doesn't the searchbox have focus? I can think of a few possibilities:
-1. Time on homepage. Amazon gets a good chance to show you a lot of ads when you first hit their page, and if you start searching right away, they've wasted a lot of potential views.
-2. Navigation. Spacebar, pageup and pagedown will no longer navigate through the page. I think this is the biggest issue and quite reasonable. So then hitting tab should go to the search box right? Well.... that gets pretty tough. How is your browser configured? Are you a Safari style user where tabs navigate inputs only? Or do your tab presses go through every item on the page? I really dislike when certain expectations are overridden by the page I'm on, so I think that this is probably a bad option.
+
+1.  Time on homepage. Amazon gets a good chance to show you a lot of ads when you first hit their page, and if you start searching right away, they've wasted a lot of potential views.
+2.  Navigation. Spacebar, pageup and pagedown will no longer navigate through the page. I think this is the biggest issue and quite reasonable. So then hitting tab should go to the search box right? Well.... that gets pretty tough. How is your browser configured? Are you a Safari style user where tabs navigate inputs only? Or do your tab presses go through every item on the page? I really dislike when certain expectations are overridden by the page I'm on, so I think that this is probably a bad option.
 
 Maybe us keyboard warriors are destined to our browser search engine features. I use Chrome day to day, so I utilize a heap of these shortcuts to search engines. For details on how they are used see here for [Chrome][2] and [Firefox][3]. I actually have a search for Amazon setup using the keyword AMZ.
 
