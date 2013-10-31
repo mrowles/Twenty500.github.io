@@ -12,9 +12,9 @@ This post is more of a rant than anything, but it is something that I feel stron
 
 There I said it. I really wish it was either never thought of, or that it's usage was more widely frowned upon.
 
-We spend so long writing, refininig and running tests. I don't understand why anyone would then go and throw away what is valuable information, just to get a green light on the build.
+We spend so long writing, refining and running tests. I don't understand why anyone would then go and throw away what is valuable information, just to get a green light on the build.
 
-I understand that sometimes tests fail for unknown reasons. This can be frustrating and I suspect is the catalyst for the widespread use of @Ignore. Tests failing for unknown reasons (ie only on the build server) make things hard, and are not what I am ranting about here.
+I understand that sometimes tests fail for unknown reasons. This can be frustrating and I suspect is the catalyst for the widespread use of @Ignore. Tests failing for unknown reasons (i.e. only on the build server) make things hard, and are not what I am ranting about here.
 
 ## The Solution ##
 
@@ -39,4 +39,4 @@ public @interface Ignore {
 
 Now this doesn't stop people from commenting out tests, but there isn't much you can do about that. 
 
-Education is the key. Try to instill in your development team a culture which aspires to test more, rather than just resolve issues (resolve is a subjective term when you resolve an issue at the expense of a previously passing test). When you resolve issues at the expense of tests, it generally means that you're ignoring a warning of a problem. These are hard to track down later!
+Education is the key. Try to instil in your development team a culture which aspires to test more, rather than just resolve issues (resolve is a subjective term when you resolve an issue at the expense of a previously passing test). When you resolve issues at the expense of tests, it generally means that you're ignoring a warning of a problem. These are hard to track down later!
