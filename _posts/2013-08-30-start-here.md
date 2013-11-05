@@ -1,10 +1,21 @@
 ---
 layout: post
-title:  "Why don't you autofocus?"
-date:   2013-08-30 17:00:00
-author: acanby
-categories: search ux
+
+title: 			"Why don't you autofocus?"
+subtitle: 		"A quick look at keyboard UX"
+categories: 	search ux
+cover_image:    wollongong-cover.jpg
+
+excerpt: 		"I'm a keyboard kind of guy. I look to use shortcuts whenever I can, and I will admit I get annoyed when I have to do something using the mouse."
+
+author:
+  name: 		Andrew Canby
+  twitter: 
+  gplus: 
+  bio: 			Developer
+  image: 		ks.png
 ---
+
 I'm a keyboard kind of guy. I look to use shortcuts whenever I can, and I will admit I get annoyed when I have to do something using the mouse.
 
 ### Good keyboard UX

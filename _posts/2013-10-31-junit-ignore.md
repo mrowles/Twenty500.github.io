@@ -1,9 +1,19 @@
 ---
 layout: post
-title:  "Stop using JUnit @Ignore"
-date:   2013-10-31 12:30:00
-categories: java junit testing
-author: acanby
+
+title: 			"Stop using JUnit @Ignore"
+subtitle: 		"Refining testing, one blog post at a time"
+categories: 	java junit testing
+cover_image:    wollongong-cover.jpg
+
+excerpt: 		"We spend so long writing, refining and running tests. Stop using @Ignore!"
+
+author:
+  name: 		Andrew Canby
+  twitter: 
+  gplus: 
+  bio: 			Developer
+  image: 		ks.png
 ---
 
 This post is more of a rant than anything, but it is something that I feel strongly enough about to take the time to write, so here goes.
